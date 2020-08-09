@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## about app
+i created a tooltip which is changing our posotion according to the selected value from the dropdown values,
+when someone hover over the button then it will show a tooltip.and you can change the position also.
 
 ## Available Scripts
 
